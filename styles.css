@@ -1,0 +1,24 @@
+hr {
+  border-color: black;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+body {
+  background-color: #e3fdfd;
+}
+
+img {
+  height: 250px;
+}
+
+h1 {
+  color: #126e82;
+  font-family: "Courier New", monospace;
+}
+
+h3 {
+  color: #51c4d3;
+}
